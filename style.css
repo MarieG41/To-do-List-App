@@ -1,0 +1,10 @@
+:root{
+   --background-color: #ffcdb2; 
+   --typo-color: #6d6875;
+   --border: #e5989b;
+   --clear-shadow: #ffb4a2;
+   --dark-shadow: #b5838d;
+}
+body{
+    background-color: var(--background-color);
+}
